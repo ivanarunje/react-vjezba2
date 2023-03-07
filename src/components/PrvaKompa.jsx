@@ -1,7 +1,7 @@
 const PrvaKompa = () => {
   return (
     <div>
-      <h2>Prva komponenta</h2>
+      <h2>Prva kompa</h2>
     </div>
   );
 };
